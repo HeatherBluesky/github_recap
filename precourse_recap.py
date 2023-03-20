@@ -11,5 +11,5 @@ subject_of_the_day = "Python Basics"
 print(current_week + " " + day_of_current_week + " " + subject_of_the_day)
 people_in_class = number_of_instructors + number_of_students
 print(people_in_class)
-
+print("i hope this works")
 
